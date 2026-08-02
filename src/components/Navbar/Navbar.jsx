@@ -61,6 +61,7 @@ export default function Navbar() {
           ))}
           <a href="#home">Home</a>
           <a href="#about">About</a>
+          <a href="#chapters">Chapters</a>
         </div>
       )}
     </motion.nav>
