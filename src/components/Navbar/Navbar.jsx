@@ -57,7 +57,10 @@ export default function Navbar() {
             >
               {item}
             </a>
+            
           ))}
+          <a href="#home">Home</a>
+          <a href="#about">About</a>
         </div>
       )}
     </motion.nav>
